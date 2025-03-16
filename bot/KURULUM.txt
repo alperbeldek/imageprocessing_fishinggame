@@ -1,0 +1,10 @@
+pip install opencv-python
+pip install numpy
+pip install pyautogui
+pip install pygetwindow
+pip install pynput
+pip install pydirectinput
+pip install pillow
+
+
+PYTHON KURULURKEN ADD TO SYSTHEM PATH SEÇİLECEK.YUKARIDAKİLER GEREKLİ KTÜPHANELER.

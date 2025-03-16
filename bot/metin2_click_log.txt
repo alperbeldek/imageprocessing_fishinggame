@@ -1,0 +1,4 @@
+Metin2 Týklama Koordinatlarý Log
+Tarih ve Saat		X Koordinatý	Y Koordinatý
+2024-10-05 00:17:10.703688: Koordinatlar: X=238, Y=223
+2024-10-05 00:17:13.770586: Koordinatlar: X=299, Y=194
